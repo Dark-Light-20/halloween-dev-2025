@@ -1,0 +1,25 @@
+{
+  "name": "halloween-dev-2025",
+  "version": "1.1.0",
+  "description": "This repository contains my solutions to **6** challenges proposed by [Midudev](https://x.com/midudev) on the website [halloween.dev](https://halloween.dev/). The purpose of the challenges is to improve JavaScript/TypeScript skills and problem-solving abilities.",
+  "homepage": "https://github.com/Dark-Light-20/halloween-dev-2025#readme",
+  "bugs": {
+    "url": "https://github.com/Dark-Light-20/halloween-dev-2025/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dark-Light-20/halloween-dev-2025.git"
+  },
+  "license": "MIT",
+  "author": "Dark-Light-20",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "1": "tsx solutions/01.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.9.2",
+    "tsx": "^4.20.6",
+    "typescript": "^5.9.3"
+  }
+}
