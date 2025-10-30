@@ -15,7 +15,8 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "1": "tsx solutions/01.ts"
+    "1": "tsx solutions/01.ts",
+    "2": "tsx solutions/02.ts"
   },
   "devDependencies": {
     "@types/node": "^24.9.2",

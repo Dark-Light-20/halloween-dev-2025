@@ -6,14 +6,14 @@ This repository contains my solutions to **6** challenges proposed by [Midudev](
 
 ## Challenges list
 
-| Challenge | Title              | Difficulty  | Description                     | Solution                    |
-| --------- | ------------------ | ----------- | ------------------------------- | --------------------------- |
-| #01       | 👹 Code possession | 🟢 Easy     | [Description](challenges/01.md) | [Solution](solutions/01.ts) |
-| #02       | TBA                | ⚪️ Unknown | [Description](challenges/02.md) | [Solution](solutions/02.ts) |
-| #03       | TBA                | ⚪️ Unknown | [Description](challenges/03.md) | [Solution](solutions/03.ts) |
-| #04       | TBA                | ⚪️ Unknown | [Description](challenges/04.md) | [Solution](solutions/04.ts) |
-| #05       | TBA                | ⚪️ Unknown | [Description](challenges/05.md) | [Solution](solutions/05.ts) |
-| #06       | TBA                | ⚪️ Unknown | [Description](challenges/06.md) | [Solution](solutions/06.ts) |
+| Challenge | Title                 | Difficulty  | Description                     | Solution                    |
+| --------- | --------------------- | ----------- | ------------------------------- | --------------------------- |
+| #01       | 👹 Code possession    | 🟢 Easy     | [Description](challenges/01.md) | [Solution](solutions/01.ts) |
+| #02       | 🐑 Count the sheep... | 🟢 Easy     | [Description](challenges/02.md) | [Solution](solutions/02.ts) |
+| #03       | TBA                   | ⚪️ Unknown | [Description](challenges/03.md) | [Solution](solutions/03.ts) |
+| #04       | TBA                   | ⚪️ Unknown | [Description](challenges/04.md) | [Solution](solutions/04.ts) |
+| #05       | TBA                   | ⚪️ Unknown | [Description](challenges/05.md) | [Solution](solutions/05.ts) |
+| #06       | TBA                   | ⚪️ Unknown | [Description](challenges/06.md) | [Solution](solutions/06.ts) |
 
 ## Installation
 
