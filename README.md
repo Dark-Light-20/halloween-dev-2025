@@ -12,7 +12,7 @@ This repository contains my solutions to **6** challenges proposed by [Midudev](
 | #02       | 🐑 Count the sheep...                | 🟢 Easy     | [Description](challenges/02.md) | [Solution](solutions/02.ts) |
 | #03       | 🔪 It's Friday the 13th              | 🟢 Easy     | [Description](challenges/03.md) | [Solution](solutions/03.ts) |
 | #04       | 🔪 Which is your favorite algorithm? | 🟠 Medium   | [Description](challenges/04.md) | [Solution](solutions/04.ts) |
-| #05       | TBA                                  | ⚪️ Unknown | [Description](challenges/05.md) | [Solution](solutions/05.ts) |
+| #05       | 🧩 I want to play a game...          | 🟠 Medium   | [Description](challenges/05.md) | [Solution](solutions/05.ts) |
 | #06       | TBA                                  | ⚪️ Unknown | [Description](challenges/06.md) | [Solution](solutions/06.ts) |
 
 ## Installation
