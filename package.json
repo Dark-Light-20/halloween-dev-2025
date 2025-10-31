@@ -19,7 +19,8 @@
     "2": "tsx solutions/02.ts",
     "3": "tsx solutions/03.ts",
     "4": "tsx solutions/04.ts",
-    "5": "tsx solutions/05.ts"
+    "5": "tsx solutions/05.ts",
+    "6": "tsx solutions/06.ts"
   },
   "devDependencies": {
     "@types/node": "^24.9.2",
